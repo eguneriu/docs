@@ -704,6 +704,7 @@ Tabellen under beskriver datakontrakten for operasjonen:
 |doSaveFormTask|Angir om det preutfylte oppgavesettet skal lagres i databasen for senere bruk|
 |doinstantiateFormTask|Angir om det preutfylte oppgavesettet umiddelbart skal instansieres i brukers arbeidsliste|
 |caseId|Referanse til samhandlingstjeneste preutfylt skjema skal knyttes til|
+|instantitedOnBehalfOf|Organisasjons nummer på virksomheten man representerer
 |**Returverdi**|**Beskrivelse**|
 |Receipt|ReceiptBE-objekt. Kvittering for forsendelsen|
 
